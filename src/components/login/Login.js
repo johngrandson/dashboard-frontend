@@ -66,11 +66,13 @@ class Login extends Component {
                                       className="form-control"
                                       type="email"
                                       name="email"
+                                      placeholder="E-mail"
                                   />
                                   <input
                                       className="form-control"
                                       type="password"
                                       name="password"
+                                      placeholder="Senha"
                                   />
                                   <div className="form-button">
                                       <button id="submit" type="submit" className="ibtn">Login</button>
