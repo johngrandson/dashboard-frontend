@@ -228,8 +228,10 @@ html, body {
 }
 
 .form-holder {
-    margin-left: 550px;
+    position: fixed;
+    height: 100%;
     width: 100%;
+    margin-left: 300px;
 }
 
 .form-holder .form-content {
